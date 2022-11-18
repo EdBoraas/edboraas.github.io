@@ -1,4 +1,6 @@
-<h1><img src="assets/EdBoraas-128.jpg" width="128" height="128" alt="Ed Boraas" /> Ed Boraas</h1>
+<img src="assets/EdBoraas-128.jpg" width="128" height="128" alt="Ed Boraas" /> 
+
+# Ed Boraas
 
 Nice to meet you. Here's where you can find me around the Web.
 
