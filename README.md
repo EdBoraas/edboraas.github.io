@@ -1,3 +1,4 @@
+![Ed Boraas](assets/EdBoraas-128.jpg)
 # Ed Boraas
 Nice to meet you. Here's where you can find me around the Web.
 
