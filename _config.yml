@@ -2,3 +2,6 @@ remote_theme: pages-themes/hacker
 plugins:
 - jekyll-remote-theme
 title: Ed Boraas
+description: Test description
+show_downloads: false
+google_analytics: UA-21916488-1
