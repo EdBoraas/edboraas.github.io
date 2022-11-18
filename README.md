@@ -1,4 +1,5 @@
 # Ed Boraas
+Nice to meet you. Here's where you can find me around the Web.
 
 ## Social
 - <a rel="me" href="https://twitter.com/EdBoraas">Twitter</a>
