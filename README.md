@@ -1,6 +1,9 @@
 # Ed Boraas
 
 ## Social
-[foo](http://foo.foo)
-<a rel="me" href="xyzfoobar">foo</a>
-<a rel="me" href="xyzbar" />
+- <a rel="me" href="https://twitter.com/EdBoraas">Twitter</a>
+- <a rel="me" href="https://linkedin.com/in/EdBoraas">LinkedIn</a>
+- <a rel="me" href="https://mstdn.ca/@EdBoraas">Mastodon</a>
+
+## Work
+- [Concordia University of Edmonton](https://concordia.ab.ca)
