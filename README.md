@@ -1,6 +1,4 @@
-<div style="float: right;">
-  <img src="assets/EdBoraas-128.jpg" width="128" height="128" alt="Ed Boraas" />
-</div>
+<img src="assets/EdBoraas-128.jpg" width="128" height="128" alt="Ed Boraas" />
 
 # Ed Boraas
 
