@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/edboraas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://boraas.ca
+  * I am edboraas (https://keybase.io/edboraas) on keybase.
+  * I have a public key ASABsRDS8mRKtzwDgOnWQ1s-hRXDyle1iRRP_x9OMzUlywo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012001b110d2f2644ab73c0380e9d6435b3e8515c3ca57b589144fff1f4e333525cb0a",
+      "host": "keybase.io",
+      "kid": "012001b110d2f2644ab73c0380e9d6435b3e8515c3ca57b589144fff1f4e333525cb0a",
+      "uid": "2edb005315291b51e96cace48f001219",
+      "username": "edboraas"
+    },
+    "merkle_root": {
+      "ctime": 1686091975,
+      "hash": "c5b919badefca8882b9cdbd6a27414c8ba3556807c6bdabb178353b9d9dde04ada27a62d1b528218e769bb88d193258889cebbf576494ffa66978c35efb2fc28",
+      "hash_meta": "bc56cc3c24fee1ff0c562dc209cabbd6c25666200eea1a5c497f65608ce5ab09",
+      "seqno": 24539033
+    },
+    "service": {
+      "entropy": "bbe0JICmvyQt8fk9627yIXJ9",
+      "hostname": "boraas.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1686092031,
+  "expire_in": 504576000,
+  "prev": "ca81a11630beb168a84cce90b88da3d8089fae38da9dbedc6e6e69d5f761197c",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAbEQ0vJkSrc8A4Dp1kNbPoUVw8pXtYkUT/8fTjM1JcsKp3BheWxvYWTESpcCEsQgyoGhFjC+sWioTM6QuI2j2Aifrjjanb7cbm5p1fdhGXzEIJo60TWKEWqAh0j774jb2IZxfvEc4WIf1xwNsGmXIMJSAgHCo3NpZ8RAxUzU0KDoIuQzsnb1TD64zy78KBtAoSh8hxbyp/y1a602SuVAAXq8o+ji8aCk1EAZvM8ffLvgYC3hTEU3xXXYAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ9jd5F/y6IWLX1AqlZdRkFa0Dr4gcs0r8j42NBHSi89o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/edboraas
+
+==================================================================
