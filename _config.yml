@@ -4,3 +4,4 @@ plugins:
 title: Ed Boraas
 show_downloads: false
 google_analytics: UA-21916488-1
+include: [".well-known"]
